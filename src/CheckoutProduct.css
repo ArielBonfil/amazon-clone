@@ -1,0 +1,12 @@
+.checkoutProduct{
+    display: flex;
+}
+.checkoutProduct > img{
+    object-fit:contain;
+    width:180px;
+    height:190px;
+    padding-right: 30px;
+}
+.checkoutProduct__info > button{
+    
+}
